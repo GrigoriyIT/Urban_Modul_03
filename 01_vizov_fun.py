@@ -3,7 +3,7 @@ def test():
     print(a, b)
 
 def test2(x, y, z):
-    print(x, y, x)
+    print(x, y, z)
 
 
 test()
